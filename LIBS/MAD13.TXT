@@ -1,6 +1,6 @@
-Adjective
-Noun
-Noun
+Long
+Cloud
+House
 Adjective
 Part of the Body
 Noun
