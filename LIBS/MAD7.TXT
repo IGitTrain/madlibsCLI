@@ -4,11 +4,11 @@ Plural noun
 Adjective
 Adjective
 Noun
-Last Name of Person in Room
+Last Name of Person in Room - Eric
 Last Name of Person in Room
 A Place
 Last Name of Person in Room
-Part of the Body
+Part of the Body      - Head
 Type of Liquid
 Article of clothing(p;ural)
 Relative
