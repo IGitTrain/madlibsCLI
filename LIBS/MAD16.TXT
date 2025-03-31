@@ -1,7 +1,7 @@
 Plural Noun
 Plural Noun
 Part fo the body
-25
+33
 boots
 Part of the body
 Type of Liquid
@@ -10,7 +10,7 @@ Part of the body
 Adjective
 Plural noun
 funny
-Adjective
+green
 Verb ending in "ing"
 Noun
 Plural noun
