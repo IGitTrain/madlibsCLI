@@ -2,6 +2,8 @@ Plural noun
 Adverb
 Type of fruit
 Part of the body
+New line 1
+new line 2
 Pural noun
 Noun
 Noun
