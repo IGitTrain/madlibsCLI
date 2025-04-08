@@ -3,8 +3,8 @@ Cloud
 House
 Adjective
 Part of the Body
-Noun
-Noun
+hat
+quantity
 Adjective
 Plural noun
 Adverb
