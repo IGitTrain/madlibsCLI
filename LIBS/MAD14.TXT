@@ -1,6 +1,6 @@
-Plural Noun
-Adjective
-Animal
+noses
+funny
+anteater
 Noun
 Adjective
 Adjective
