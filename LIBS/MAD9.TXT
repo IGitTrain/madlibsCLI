@@ -1,7 +1,7 @@
-Noun
-Adjective
-Animal
-Adjective
+The
+Sleepy
+Yorkshire Terrier
+Snores
 Adjective
 Noun
 Type of Container
