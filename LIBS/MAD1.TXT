@@ -6,6 +6,6 @@ harumph
 hoppede
 feet
 walk
-Plural Noun
-Verb
-Plural Noun
+Hills
+jump
+whales
